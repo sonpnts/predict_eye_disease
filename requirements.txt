@@ -46,3 +46,4 @@ Werkzeug==3.0.3
 wrapt==1.14.1
 gunicorn
 fastapi
+gdown
