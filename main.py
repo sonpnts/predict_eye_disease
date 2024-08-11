@@ -41,7 +41,7 @@ from PIL import Image
 app = FastAPI()
 
 # URL của tệp mô hình trên Google Drive
-model_url = 'https://drive.google.com/uc?id=1YL_nGNP8zW8oY7JlpiLMuiwsoFdGQEQD'
+model_url = 'https://drive.google.com/uc?id=1LXsCWLzM4BJnXWMwCGysZuTCABeBB9OH'
 
 # Đường dẫn tạm thời để lưu tệp mô hình
 model_path = 'efficientnetb3-EyeDisease-95.14.h5'
